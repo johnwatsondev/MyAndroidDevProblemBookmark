@@ -15,7 +15,7 @@
 [Dagger 2: Even sharper, less square](https://blog.gouline.net/2015/05/04/dagger-2-even-sharper-less-square/) (jake point out some inaccurate idea)
 
 ### generic support
-[Dagger 2 Generic Type class inject error](http://www.coderhelps.xyz/code/32498912-dagger-2-generic-type-class-inject-error.html)  
+[Dagger 2 Generic Type class inject error](http://stackoverflow.com/questions/32498912/dagger-2-generic-type-class-inject-error)  
 [dagger cannot inject type parameter field](http://stackoverflow.com/questions/28079276/dagger-cannot-inject-type-parameter-field)  
 [GenericTest](https://github.com/google/dagger/blob/master/compiler/src/it/functional-tests/src/test/java/test/GenericTest.java)  
 [Dagger 2 and Base Classes — Generics and Presenter injection](https://medium.com/@patrykpoborca)
