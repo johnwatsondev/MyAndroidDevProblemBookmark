@@ -44,5 +44,9 @@
 ## java collection
 [Fluent operations on collections in Java](https://blog.maxwellforest.com/fluent-operations-on-collections-in-java/)
 
+## rxjava
+[RxJava’s Side Effect Methods](http://www.grokkingandroid.com/rxjavas-side-effect-methods/)  
+[Why use Observable.create() and not just inherit from Observable?](http://www.grokkingandroid.com/why-use-observable-create-and-not-just-inherit-from-observable/)  
+
 ## alike link
 [Android-links](https://github.com/ferdy182/Android-links)
