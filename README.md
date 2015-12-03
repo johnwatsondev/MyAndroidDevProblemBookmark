@@ -22,3 +22,18 @@
 
 ## code coverage
 [Code coverage on Android with JaCoCo](https://blog.gouline.net/2015/06/23/code-coverage-on-android-with-jacoco/)
+
+## choose OOS
+[How to choose good third party frameworks](https://blog.maxwellforest.com/how-to-choose-third-party-frameworks/)
+
+## code review
+[Code reviews are heaps good](https://blog.maxwellforest.com/code-reviews-are-heaps-good/)
+
+## logging
+[Software logging: making it useful and scalable](https://blog.maxwellforest.com/software-logging-making-it-useful-and-scalable/)
+
+## custom view
+[Drawing an animated timer in Android](https://blog.maxwellforest.com/drawing-an-animated-timer-in-android/)
+
+## java collection
+[Fluent operations on collections in Java](https://blog.maxwellforest.com/fluent-operations-on-collections-in-java/)
