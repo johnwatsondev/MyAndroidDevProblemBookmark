@@ -3,6 +3,12 @@
 ## performance graphics animation
 [Android Development: Lotsa Links](http://graphics-geek.blogspot.jp/2015/01/android-development-lotsa-links.html)
 
+## memory leak
+[Debugging Memory Leaks on Android (for Beginners)](https://www.novoda.com/blog/debugging-memory-leaks-on-android-for-beginners-programmatic-heap-dumping-part-1/)  
+
+## skill
+[How templates can save your time?](http://www.dmytrodanylyk.com/pages/blog/templates.html)
+
 ## sharing
 [sharing-natively-on-android-from-the-web](https://paul.kinlan.me/sharing-natively-on-android-from-the-web/)
 
