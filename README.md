@@ -1,5 +1,8 @@
 # android-dev-problem-bookmark
 
+## Performance Graphics Animation
+[Android Development: Lotsa Links](http://graphics-geek.blogspot.jp/2015/01/android-development-lotsa-links.html)
+
 ## sharing
 [sharing-natively-on-android-from-the-web](https://paul.kinlan.me/sharing-natively-on-android-from-the-web/)
 
