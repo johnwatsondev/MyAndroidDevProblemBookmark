@@ -1,5 +1,4 @@
 # android-dev-problem-bookmark
-The bookmark of problem's solution in development
 
 ## sharing
 [sharing-natively-on-android-from-the-web](https://paul.kinlan.me/sharing-natively-on-android-from-the-web/)
