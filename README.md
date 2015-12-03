@@ -6,7 +6,7 @@
 ## memory leak
 [Debugging Memory Leaks on Android (for Beginners)](https://www.novoda.com/blog/debugging-memory-leaks-on-android-for-beginners-programmatic-heap-dumping-part-1/)  
 
-## skill
+## tool skill
 [How templates can save your time?](http://www.dmytrodanylyk.com/pages/blog/templates.html)
 
 ## sharing
