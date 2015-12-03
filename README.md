@@ -54,5 +54,8 @@
 [RxJava’s Side Effect Methods](http://www.grokkingandroid.com/rxjavas-side-effect-methods/)  
 [Why use Observable.create() and not just inherit from Observable?](http://www.grokkingandroid.com/why-use-observable-create-and-not-just-inherit-from-observable/)  
 
+## build apk
+[Android 项目利用 Android Studio 和 Gradle 打包多版本APK](http://spencer-dev.com/blog/2015/android-xiang-mu-li-yong-android-studio-he-gradle-da-bao-duo-ban-ben-apk.html/)
+
 ## alike link
 [Android-links](https://github.com/ferdy182/Android-links)
