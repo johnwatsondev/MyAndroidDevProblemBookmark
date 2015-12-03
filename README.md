@@ -9,6 +9,11 @@
 ## tool skill
 [How templates can save your time?](http://www.dmytrodanylyk.com/pages/blog/templates.html)
 
+## test
+[Testing.... Unit testing, UI automation, QA hands on.... What is everyone doing?](https://www.reddit.com/r/androiddev/comments/3tlvv0/testing_unit_testing_ui_automation_qa_hands_on/)  
+[Run tests on Android - Rxjava](https://github.com/ReactiveX/RxJava/pull/3519)  
+[]()  
+
 ## sharing
 [sharing-natively-on-android-from-the-web](https://paul.kinlan.me/sharing-natively-on-android-from-the-web/)
 
@@ -53,9 +58,34 @@
 ## rxjava
 [RxJava’s Side Effect Methods](http://www.grokkingandroid.com/rxjavas-side-effect-methods/)  
 [Why use Observable.create() and not just inherit from Observable?](http://www.grokkingandroid.com/why-use-observable-create-and-not-just-inherit-from-observable/)  
+[Easy SQLite on Android with RxJava](http://beust.com/weblog/2015/06/01/easy-sqlite-on-android-with-rxjava/)  
+[Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/) [译文](http://blog.csdn.net/lzyzsd/article/details/41833541)  
+[给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)  
+[Deferring Observable code until subscription in RxJava](http://blog.danlew.net/2015/07/23/deferring-observable-code-until-subscription-in-rxjava/)  
+[RxJava: defer execution of a function with new operator fromCallable()](http://artemzin.com/blog/rxjava-defer-execution-of-function-via-fromcallable/)  
 
-## build apk
+## gradle
+[构建神器Gradle](http://jiajixin.cn/2015/08/07/gradle-android/)  
 [Android 项目利用 Android Studio 和 Gradle 打包多版本APK](http://spencer-dev.com/blog/2015/android-xiang-mu-li-yong-android-studio-he-gradle-da-bao-duo-ban-ben-apk.html/)
+
+## TDD
+[Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/figures.html)  
+[利用mock发现接口](http://www.think-in-g.net/ghawk/blog/2011/11/find-interface-with-mock/)  
+[如何正确的使用Mock](http://www.iamhukai.com/?p=18)  
+[Mocks并不是Stubs(Mocks Aren't Stubs)](http://blog.xulvcai.asia/2015/08/06/mocks-are-not-stubs-translation/)  
+
+## work
+[程序员技术晋升非正式攻略](http://timyang.net/misc/promotion-tips/)  
+
+## screenlock
+[锁屏上显示Activity](http://www.race604.com/activity-over-keyguard/)  
+
+## some tips
+[Cool Android Apis 整理](http://oakzmm.com/2015/08/04/cool-Android-api/)
+
+## nice blog
+[Philosophical Hacker](http://www.philosophicalhacker.com/)  
+[hannes dorfmann](http://hannesdorfmann.com/)  
 
 ## alike link
 [Android-links](https://github.com/ferdy182/Android-links)
