@@ -55,6 +55,9 @@
 ## java collection
 [Fluent operations on collections in Java](https://blog.maxwellforest.com/fluent-operations-on-collections-in-java/)
 
+## Retrofit
+https://futurestud.io/blog/retrofit-getting-started-and-android-client
+
 ## rxjava
 [RxJava’s Side Effect Methods](http://www.grokkingandroid.com/rxjavas-side-effect-methods/)  
 [Why use Observable.create() and not just inherit from Observable?](http://www.grokkingandroid.com/why-use-observable-create-and-not-just-inherit-from-observable/)  
@@ -74,14 +77,14 @@
 [如何正确的使用Mock](http://www.iamhukai.com/?p=18)  
 [Mocks并不是Stubs(Mocks Aren't Stubs)](http://blog.xulvcai.asia/2015/08/06/mocks-are-not-stubs-translation/)  
 
-## work
-[程序员技术晋升非正式攻略](http://timyang.net/misc/promotion-tips/)  
-
 ## screenlock
 [锁屏上显示Activity](http://www.race604.com/activity-over-keyguard/)  
 
 ## some tips
 [Cool Android Apis 整理](http://oakzmm.com/2015/08/04/cool-Android-api/)
+
+## work
+[程序员技术晋升非正式攻略](http://timyang.net/misc/promotion-tips/) 
 
 ## nice blog
 [Philosophical Hacker](http://www.philosophicalhacker.com/)  
