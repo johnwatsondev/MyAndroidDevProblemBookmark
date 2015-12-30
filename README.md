@@ -56,7 +56,7 @@
 [Fluent operations on collections in Java](https://blog.maxwellforest.com/fluent-operations-on-collections-in-java/)
 
 ## Retrofit
-https://futurestud.io/blog/retrofit-getting-started-and-android-client
+[futurestud](https://futurestud.io/blog/retrofit-getting-started-and-android-client)
 
 ## rxjava
 [RxJava’s Side Effect Methods](http://www.grokkingandroid.com/rxjavas-side-effect-methods/)  
@@ -79,6 +79,9 @@ https://futurestud.io/blog/retrofit-getting-started-and-android-client
 
 ## screenlock
 [锁屏上显示Activity](http://www.race604.com/activity-over-keyguard/)  
+
+## Security
+[oguzhan.topgul](https://mobile-security.zeef.com/oguzhan.topgul)
 
 ## some tips
 [Cool Android Apis 整理](http://oakzmm.com/2015/08/04/cool-Android-api/)
