@@ -29,9 +29,9 @@ world-class-testing-development-pipeline-for-android [part1](http://blog.karumi.
 [Dagger 2: Even sharper, less square](https://blog.gouline.net/2015/05/04/dagger-2-even-sharper-less-square/) (jake point out some inaccurate idea)
 
 ### generic support
+[GenericTest](https://github.com/google/dagger/blob/master/compiler/src/it/functional-tests/src/test/java/test/GenericTest.java)  
 [Dagger 2 Generic Type class inject error](http://stackoverflow.com/questions/32498912/dagger-2-generic-type-class-inject-error)  
 [dagger cannot inject type parameter field](http://stackoverflow.com/questions/28079276/dagger-cannot-inject-type-parameter-field)  
-[GenericTest](https://github.com/google/dagger/blob/master/compiler/src/it/functional-tests/src/test/java/test/GenericTest.java)  
 [Dagger 2 and Base Classes — Generics and Presenter injection](https://medium.com/@patrykpoborca)  
 [Components not supporting extending generic interfaces: needs human readable error](https://github.com/google/dagger/issues/65)
 
@@ -78,7 +78,8 @@ world-class-testing-development-pipeline-for-android [part1](http://blog.karumi.
 
 ## gradle
 [构建神器Gradle](http://jiajixin.cn/2015/08/07/gradle-android/)  
-[Android 项目利用 Android Studio 和 Gradle 打包多版本APK](http://spencer-dev.com/blog/2015/android-xiang-mu-li-yong-android-studio-he-gradle-da-bao-duo-ban-ben-apk.html/)
+[Android 项目利用 Android Studio 和 Gradle 打包多版本APK](http://spencer-dev.com/blog/2015/android-xiang-mu-li-yong-android-studio-he-gradle-da-bao-duo-ban-ben-apk.html/)  
+[Gradle tips and tricks](http://blog.callumtaylor.net/gradletipsandtricks)  
 
 ## TDD
 [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/figures.html)  
