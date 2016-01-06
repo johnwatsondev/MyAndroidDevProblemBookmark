@@ -57,7 +57,12 @@
 [Fluent operations on collections in Java](https://blog.maxwellforest.com/fluent-operations-on-collections-in-java/)
 
 ## Retrofit
+
+### tutorial
 [futurestud](https://futurestud.io/blog/retrofit-getting-started-and-android-client)
+
+### useful issue
+[Expose RequestAction for pluggable parameters handlers.](https://github.com/square/retrofit/issues/626)  
 
 ## rxjava
 [RxJava’s Side Effect Methods](http://www.grokkingandroid.com/rxjavas-side-effect-methods/)  
