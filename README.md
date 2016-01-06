@@ -12,7 +12,7 @@
 ## test
 [Testing.... Unit testing, UI automation, QA hands on.... What is everyone doing?](https://www.reddit.com/r/androiddev/comments/3tlvv0/testing_unit_testing_ui_automation_qa_hands_on/)  
 [Run tests on Android - Rxjava](https://github.com/ReactiveX/RxJava/pull/3519)  
-[]()  
+world-class-testing-development-pipeline-for-android [part1](http://blog.karumi.com/world-class-testing-development-pipeline-for-android) [part2](http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-2/)
 
 ## sharing
 [sharing-natively-on-android-from-the-web](https://paul.kinlan.me/sharing-natively-on-android-from-the-web/)
@@ -94,9 +94,6 @@
 
 ## some tips
 [Cool Android Apis 整理](http://oakzmm.com/2015/08/04/cool-Android-api/)
-
-## work
-[程序员技术晋升非正式攻略](http://timyang.net/misc/promotion-tips/) 
 
 ## nice blog
 [Philosophical Hacker](http://www.philosophicalhacker.com/)  
