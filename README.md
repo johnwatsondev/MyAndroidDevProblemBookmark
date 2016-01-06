@@ -35,6 +35,9 @@
 [Dagger 2 and Base Classes — Generics and Presenter injection](https://medium.com/@patrykpoborca)  
 [Components not supporting extending generic interfaces: needs human readable error](https://github.com/google/dagger/issues/65)
 
+### scope
+[Dagger2Scopes](https://github.com/JorgeCastilloPrz/Dagger2Scopes)  
+
 ### useful issue
 [Provide an example relevant to java/android instead of coffee brewing](https://github.com/google/dagger/issues/262)  
 
