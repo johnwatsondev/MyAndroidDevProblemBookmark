@@ -32,7 +32,8 @@
 [Dagger 2 Generic Type class inject error](http://stackoverflow.com/questions/32498912/dagger-2-generic-type-class-inject-error)  
 [dagger cannot inject type parameter field](http://stackoverflow.com/questions/28079276/dagger-cannot-inject-type-parameter-field)  
 [GenericTest](https://github.com/google/dagger/blob/master/compiler/src/it/functional-tests/src/test/java/test/GenericTest.java)  
-[Dagger 2 and Base Classes — Generics and Presenter injection](https://medium.com/@patrykpoborca)
+[Dagger 2 and Base Classes — Generics and Presenter injection](https://medium.com/@patrykpoborca)  
+[Components not supporting extending generic interfaces: needs human readable error](https://github.com/google/dagger/issues/65)
 
 ### useful issue
 [Provide an example relevant to java/android instead of coffee brewing](https://github.com/google/dagger/issues/262)  
