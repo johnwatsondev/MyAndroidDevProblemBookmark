@@ -91,7 +91,7 @@ world-class-testing-development-pipeline-for-android [part1](http://blog.karumi.
 ## screenlock
 [锁屏上显示Activity](http://www.race604.com/activity-over-keyguard/)  
 
-## Security
+## security
 [oguzhan.topgul](https://mobile-security.zeef.com/oguzhan.topgul)
 
 ## some tips
@@ -100,6 +100,9 @@ world-class-testing-development-pipeline-for-android [part1](http://blog.karumi.
 ## nice blog
 [Philosophical Hacker](http://www.philosophicalhacker.com/)  
 [hannes dorfmann](http://hannesdorfmann.com/)  
+
+## underlayer hacks
+[NativeSubprocess](https://github.com/droidwolf/NativeSubprocess)
 
 ## alike link
 [Android-links](https://github.com/ferdy182/Android-links)
