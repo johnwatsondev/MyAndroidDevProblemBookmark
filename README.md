@@ -1,5 +1,3 @@
-# android-dev-problem-bookmark
-
 ## performance graphics animation
 [Android Development: Lotsa Links](http://graphics-geek.blogspot.jp/2015/01/android-development-lotsa-links.html)
 
