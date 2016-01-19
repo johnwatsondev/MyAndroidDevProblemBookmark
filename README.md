@@ -68,6 +68,7 @@ world-class-testing-development-pipeline-for-android [part1](http://blog.karumi.
 [Expose RequestAction for pluggable parameters handlers.](https://github.com/square/retrofit/issues/626)  
 
 ## rxjava
+[rxmarbles](https://github.com/staltz/rxmarbles)  
 [RxJava’s Side Effect Methods](http://www.grokkingandroid.com/rxjavas-side-effect-methods/)  
 [Why use Observable.create() and not just inherit from Observable?](http://www.grokkingandroid.com/why-use-observable-create-and-not-just-inherit-from-observable/)  
 [Easy SQLite on Android with RxJava](http://beust.com/weblog/2015/06/01/easy-sqlite-on-android-with-rxjava/)  
