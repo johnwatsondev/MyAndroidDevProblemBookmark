@@ -80,6 +80,9 @@ world-class-testing-development-pipeline-for-android [part1](http://blog.karumi.
 [Android 项目利用 Android Studio 和 Gradle 打包多版本APK](http://spencer-dev.com/blog/2015/android-xiang-mu-li-yong-android-studio-he-gradle-da-bao-duo-ban-ben-apk.html/)  
 [Gradle tips and tricks](http://blog.callumtaylor.net/gradletipsandtricks)  
 
+## unit testing
+[zh-unit-testing-guidelines](https://github.com/yangyubo/zh-unit-testing-guidelines)  
+
 ## TDD
 [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/figures.html)  
 [利用mock发现接口](http://www.think-in-g.net/ghawk/blog/2011/11/find-interface-with-mock/)  
