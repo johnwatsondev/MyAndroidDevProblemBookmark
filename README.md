@@ -37,6 +37,7 @@ world-class-testing-development-pipeline-for-android [part1](http://blog.karumi.
 [Dagger2Scopes](https://github.com/JorgeCastilloPrz/Dagger2Scopes)  
 
 ### useful issue
+[Dagger 2.0 Android migration tips](https://loune.net/2015/04/dagger-2-0-android-migration-tips/)  
 [Provide an example relevant to java/android instead of coffee brewing](https://github.com/google/dagger/issues/262)  
 
 ## code coverage
