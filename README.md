@@ -106,5 +106,8 @@ world-class-testing-development-pipeline-for-android [part1](http://blog.karumi.
 ## underlayer hacks
 [NativeSubprocess](https://github.com/droidwolf/NativeSubprocess)
 
+## Android Studio
+[Android Studio 小技巧合集](http://laobie.github.io/android/2016/02/14/android-studio-tips.html)  
+
 ## alike link
 [Android-links](https://github.com/ferdy182/Android-links)
