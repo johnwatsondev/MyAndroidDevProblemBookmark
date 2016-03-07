@@ -16,7 +16,8 @@ world-class-testing-development-pipeline-for-android [part1](http://blog.karumi.
 [sharing-natively-on-android-from-the-web](https://paul.kinlan.me/sharing-natively-on-android-from-the-web/)
 
 ## webview
-[Android中WebView的使用——JS交互、goBack跳转、内存占用等](http://gk969.com/android-webview/)
+[Android中WebView的使用——JS交互、goBack跳转、内存占用等](http://gk969.com/android-webview/)  
+[灵活高效的在 Android Native App 开发中显示 HTML 内容](http://www.ibm.com/developerworks/cn/web/1407_zhangqian_androidhtml/)
 
 ## dagger2
 
